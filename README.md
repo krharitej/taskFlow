@@ -27,7 +27,7 @@ A Next.js application featuring an Admin Portal and a User Portal, both synchron
 ### 1. Clone & Install
 ```bash
 # Navigate to project directory
-cd Portal
+cd taskFlow
 
 # Install dependencies
 npm install
